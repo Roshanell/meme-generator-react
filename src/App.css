@@ -51,3 +51,9 @@ main {
 	color: white;
 	background: linear-gradient(90.41deg, #711f8d 1.14%, #a818da 100%);
 }
+.meme-image {
+	border: #672280 solid 10px;
+	width: 80%;
+	height: auto;
+	margin: 0 auto;
+}
